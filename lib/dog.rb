@@ -7,17 +7,9 @@ class Dog
   def name 
     @this_dog_name
   end 
-end 
+end
 
-fido = Dog.new
-fido.name = "Fido"
- 
-puts fido .name
-
-fido.bark "woof!"
-
-puts fido.bark
- 
+class Dog 
 def bark 
   puts fido.bark
 end
