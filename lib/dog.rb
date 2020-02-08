@@ -15,5 +15,5 @@ fido.name = "Fido"
 fido .name
 
  
-fido .bark
+put fido .bark
 woof!
