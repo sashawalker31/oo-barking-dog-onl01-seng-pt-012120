@@ -10,6 +10,7 @@ class Dog
 end
 
 class Dog 
-def bark 
-  puts fido.bark
+  def bark 
+    puts fido.bark
+  end
 end
