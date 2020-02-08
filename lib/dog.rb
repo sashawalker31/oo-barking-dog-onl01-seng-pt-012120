@@ -14,5 +14,8 @@ fido.name = "Fido"
  
 puts fido .name
 
+fido.bark = "woof!"
  
-puts fido .bark
+def bark 
+  puts fido.bark
+end
